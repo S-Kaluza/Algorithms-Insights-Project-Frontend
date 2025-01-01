@@ -1,7 +1,6 @@
 ﻿import styled from "@emotion/styled";
 
 const StyledCredentialsInput = styled.input`
-    width: 50%;
     background: none;
     color: ${(props) => props.theme.palette.text.primary};
     height: 1rem;
